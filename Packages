@@ -26,3 +26,17 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://lgariv.github.io/LaVie/depictions/?p=com.supermamon.oldpackage
 
+Package: com.LGariv.YouTubeZoom
+Version: 1.0.0
+Section: Tweaks
+Maintainer: LGariv <lavie43g@gmail.com>
+Depends: firmware (>11.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.LGariv.YouTubeZoom.deb
+Size: 4191
+MD5sum: edd06cd23fc104f8f0296a50f587a52d
+Description: This tweak changes the values for YouTube's "Pinch To Zoom" feature, to zoom just to about 18:9 aspect ratio, which is right up to the notch. iPhone X only.
+Name: YouTubeZoom
+Author: LGariv <lavie43g@gmail.com>
+Depiction: https://lgariv.github.io/LaVie/depictions/?p=com.LGariv.YouTubeZoom
+
