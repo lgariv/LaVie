@@ -10,7 +10,7 @@
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>iPhone X only. iOS 11.0-11.4b3.</shortDescription>
+	<shortDescription> iPhone X only. iOS 11.0-11.4b3.</shortDescription>
 	<descriptionlist>
 		<description>This tweak changes the values for YouTube's "Pinch To Zoom" feature, to zoom just to about 18:9 aspect ratio, which is right up to the notch.</description>
 	</descriptionlist>
