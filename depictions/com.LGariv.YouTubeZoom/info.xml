@@ -25,15 +25,12 @@
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change>Second release</change>
-		<change>It has feature 1</change>
-		<change>It has feature 2</change>
+		<change>Initial release</change>
 	</changelog>
 	<links>
 		<link>
-			<name>/r/jailbreak</name>
-			<url>https://www.reddit.com/r/jailbreak</url>
-			<iconclass>fa fa-reddit</iconclass>
+			<name>Contact Me</name>
+			<url>lavie43b@gmail.com</url>
 		</link>
 	</links>
 </package>
