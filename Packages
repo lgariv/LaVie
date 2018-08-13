@@ -33,8 +33,8 @@ Maintainer: LGariv <lavie43g@gmail.com>
 Depends: firmware (>11.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.LGariv.YouTubeZoom.deb
-Size: 5308
-MD5sum: 6c639d01a13e148e1bd6dc8109c3941d
+Size: 4904
+MD5sum: e272192843da010e2535cbfaa81239fc
 Description: This tweak changes the values for YouTube's "Pinch To Zoom" feature, to zoom just to about 18:9 aspect ratio, which is right up to the notch. iPhone X only.
 Name: YouTubeZoom
 Author: LGariv <lavie43g@gmail.com>
