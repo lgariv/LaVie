@@ -4,6 +4,11 @@
 			<name>Follow me on Twitter</name>
 			<url>https://twitter.com/LGarivOfficial</url>
 			<iconclass>fa fa-twitter</iconclass>
+            <link>
+			<name>Email Me</name>
+			<url>mailto:lavie43g@gmail.com</url>
+			<iconclass>fa fa-email</iconclass>
+		</link>
 		</link>
 	</footerlinks>
 </repo>
