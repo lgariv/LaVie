@@ -1,7 +1,7 @@
 <changelog>
 	<changes>
 		<version>0.0.2</version>
-        <change>added preference pane</change>
+        <change>added (dummy) preference pane</change>
 	</changes>
     <changes>
         <version>0.0.1</version>
