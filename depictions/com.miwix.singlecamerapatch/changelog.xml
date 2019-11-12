@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>0.0.3</version>
+        <change>hopefully not a dummy anymore</change>
+	</changes>
+    <changes>
 		<version>0.0.2</version>
         <change>added (dummy) preference pane</change>
 	</changes>

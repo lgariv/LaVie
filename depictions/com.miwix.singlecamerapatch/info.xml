@@ -1,7 +1,7 @@
 <package>
 	<id>com.miwix.singlecamerapatch.</id>
 	<name>SingleCameraPatch</name>
-	<version>0.0.2</version>
+	<version>0.0.3</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.0</miniOS>
@@ -23,7 +23,7 @@
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change>added (dummy) preference pane</change>
+		<change>hopefully not a dummy anymore</change>
 	</changelog>
 	<links>
 		<link>
