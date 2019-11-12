@@ -1,5 +1,5 @@
 Package: com.LGariv.YouTubeZoom
-Version: 1.0.0
+Version: 1.6.9
 Section: Tweaks
 Maintainer: LGariv <lavie43g@gmail.com>
 Depends: firmware (>11.0), mobilesubstrate
@@ -12,3 +12,15 @@ Name: YouTubeZoom
 Author: LGariv <lavie43g@gmail.com>
 Depiction: https://lgariv.github.io/LaVie/depictions/?p=com.LGariv.YouTubeZoom
 
+Package: com.miwix.singlecamerapatch
+Version: 0.0.3
+Section: Tweaks
+Maintainer: LGariv <lavie43g@gmail.com>
+Depends: firmware (>12.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.miwix.singlecamerapatch.deb
+Size: 4856
+MD5sum: 5c5e2c002f6e41f0ce46b7d829708af0
+Description: To be determined.
+Author: LGariv <lavie43g@gmail.com>
+Depiction: https://lgariv.github.io/LaVie/depictions/?p=com.miwix.singlecamerapatch
