@@ -1,4 +1,8 @@
 <changelog>
+    <changes>
+        <version>0.0.4</version>
+		<change>Portrait lighting fix attempt</change>
+	</changes>
 	<changes>
 		<version>0.0.3</version>
         <change>hopefully not a dummy anymore</change>
