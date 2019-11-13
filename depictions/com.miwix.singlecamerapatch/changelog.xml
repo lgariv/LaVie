@@ -1,15 +1,19 @@
 <changelog>
     <changes>
+        <version>0.0.5</version>
+		<change>Maybe it will actuaclly work this time...</change>
+	</changes>
+    <changes>
         <version>0.0.4</version>
 		<change>Portrait lighting fix attempt</change>
 	</changes>
 	<changes>
 		<version>0.0.3</version>
-        <change>hopefully not a dummy anymore</change>
+        <change>Hopefully not a dummy anymore</change>
 	</changes>
     <changes>
 		<version>0.0.2</version>
-        <change>added (dummy) preference pane</change>
+        <change>Added (dummy) preference pane</change>
 	</changes>
     <changes>
         <version>0.0.1</version>
