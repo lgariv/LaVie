@@ -1,5 +1,9 @@
 <changelog>
     <changes>
+        <version>0.0.6</version>
+		<change>Who's a dummy now?</change>
+	</changes>
+    <changes>
         <version>0.0.5</version>
 		<change>Maybe it will actuaclly work this time...</change>
 	</changes>
