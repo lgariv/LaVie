@@ -16,16 +16,16 @@ Depiction: https://lgariv.github.io/LaVie/depictions/?p=com.LGariv.YouTubeZoom
 Name: YouTubeZoom
 
 Package: com.miwix.singlecamerapatch
-Version: 0.0.6-3+debug
+Version: 0.0.7-15+debug
 Architecture: iphoneos-arm
 Maintainer: MiWiX
-Installed-Size: 160
-Depends: mobilesubstrate
+Installed-Size: 164
+Depends: mobilesubstrate, ws.hbang.common (>= 1.13)
 Filename: ./debs/com.miwix.singlecamerapatch.deb
-Size: 6466
-MD5sum: 5ef14819087fa3c11a13e1831602aead
-SHA1: 7b1c456be64e6031642d2d4c7c7350a22f6dedf3
-SHA256: f7af541262e6fbdb99b3981143b19d5ebe4470568267fac625f60d3d05aa6ec8
+Size: 7372
+MD5sum: 3a88cba90cdea1637c3d23b58ff08c4d
+SHA1: 3bd8c4c8dde0881b968ef6e0753ca4d54a27bef3
+SHA256: 21e1ef4cd549553a9346c4ea653aba77e8a079d6a55802afd8f38ad1780e4b60
 Section: Tweaks
 Author: Lavie Gariv
 Name: singlecamerapatch
