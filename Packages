@@ -15,6 +15,22 @@ Author: LGariv <lavie43g@gmail.com>
 Depiction: https://lgariv.github.io/LaVie/depictions/?p=com.LGariv.YouTubeZoom
 Name: YouTubeZoom
 
+Package: com.miwix.kamakeif
+Version: 0.0.1-70+debug
+Architecture: iphoneos-arm
+Maintainer: Lavie Gariv
+Installed-Size: 260
+Depends: mobilesubstrate, ws.hbang.common (>= 1.13)
+Filename: ./debs/com.miwix.kamakeif.deb
+Size: 17940
+MD5sum: a48d21a0400a8be8f1ab307f9cd49cfa
+SHA1: 661c2def4bfe69b6f4f5da16d48dbf97784b6114
+SHA256: 5a7849ac9f27346f857d004ee2e9348022f4dc2f443f0eb925681ab5da78ab60
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Lavie Gariv
+Name: KamaKeif
+
 Package: com.miwix.singlecamerapatch
 Version: 0.0.7-15+debug
 Architecture: iphoneos-arm
