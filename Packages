@@ -1,20 +1,3 @@
-Package: com.LGariv.YouTubeZoom
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: LGariv <lavie43g@gmail.com>
-Installed-Size: 120
-Depends: firmware (>=11.0)
-Filename: ./debs/com.LGariv.YouTubeZoom.deb
-Size: 3942
-MD5sum: e1bb045b5f43a7f032dc3038c1da0b69
-SHA1: 3fbda4f14f87f82abfe90dbef2eb9c348569a9a0
-SHA256: 9a8f76509a21aa62020878ce2b9aaf9f035fff04db8bb88ae6560cc2d63f367a
-Section: Tweaks
-Description: This tweak changes the values for YouTube's "Pinch To Zoom" feature, to zoom just to about 18:9 aspect ratio, which is right up to the notch. iPhone X only.
-Author: LGariv <lavie43g@gmail.com>
-Depiction: https://lgariv.github.io/LaVie/depictions/?p=com.LGariv.YouTubeZoom
-Name: YouTubeZoom
-
 Package: com.miwix.kamakeif
 Version: 0.0.1-70+debug
 Architecture: iphoneos-arm
@@ -45,4 +28,19 @@ SHA256: 21e1ef4cd549553a9346c4ea653aba77e8a079d6a55802afd8f38ad1780e4b60
 Section: Tweaks
 Author: Lavie Gariv
 Name: singlecamerapatch
+
+Package: com.miwix.youtubezoom
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Lavie Gariv
+Installed-Size: 296
+Depends: mobilesubstrate, ws.hbang.common (>= 1.13)
+Filename: ./debs/com.miwix.youtubezoom_1.0.0_iphoneos-arm.deb
+Size: 14000
+MD5sum: be84eda87397a8e4d5d85e6f9f6bc131
+SHA1: eb68794101ca800a791562c05518a48184467a55
+SHA256: b543ebbf859d90c4538e49481d30c22d070e5613ce26db5b513fd9a88df81e43
+Section: Tweaks
+Author: Lavie Gariv
+Name: YouTubeZoom
 
