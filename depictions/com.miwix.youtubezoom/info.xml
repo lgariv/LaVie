@@ -1,7 +1,7 @@
 <package>
 	<id>com.LGariv.YouTubeZoom</id>
 	<name>YouTubeZoom</name>
-	<version>1.9.6</version>
+	<version>1.0.0</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -12,16 +12,6 @@
 	<descriptionlist>
 		<description>This tweak changes the values for YouTube's "Pinch To Zoom" feature, to zoom just up to about 18:9 aspect ratio, which is right up to the notch.</description>
 	</descriptionlist>
-	<screenshots>
-		<screenshot>
-			<description>This is a description for screenshot 1.</description>
-			<image>cydia.jpg</image>
-		</screenshot>		
-		<screenshot>
-			<description>This is a description for screenshot 2.</description>
-			<image>cydia.jpg</image>
-		</screenshot>		
-	</screenshots>
 	<changelog>
 		<change>Initial public release</change>
 	</changelog>
