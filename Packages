@@ -36,12 +36,13 @@ Maintainer: Lavie Gariv
 Installed-Size: 172
 Depends: mobilesubstrate, ws.hbang.common (>= 1.13)
 Filename: ./debs/com.miwix.youtubezoom.deb
-Size: 14466
-MD5sum: f905d5fe052e968d6c036be256014e15
-SHA1: c272d4ba607e1803d357add166e69d23abb04184
-SHA256: 2f7d9edf037fbaaff05d94dc7edfc0a4d3f91e35c2d09d4a3d12b1b56224e1ba
+Size: 14480
+MD5sum: 7c034a588ded1585360140ec58486a18
+SHA1: 24f07efe508eb628ef9fab523858e3f471dfb0f9
+SHA256: 2c50b0b28b2119ad248dab61ab463a90de3cf0920aca33488dbb2e8cbf0578fb
 Section: Tweaks
 Description: This tweak changes the values for YouTube's "Zoom To Fill" feature, to zoom just up to about 18:9 aspect ratio, which is right up to the notch.
 Author: Lavie Gariv
+Depiction: https://lgariv.github.io/LaVie/depictions/?p=com.miwix.youtubezoom
 Name: YouTubeZoom
 
