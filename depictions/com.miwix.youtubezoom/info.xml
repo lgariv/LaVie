@@ -5,10 +5,10 @@
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
-            <maxOS>13.2.2</maxOS>
+            <maxOS>13.2.3</maxOS>
 		</firmware>
 	</compatibility>
-	<shortDescription>Compatible with: iPhone X, iPhone Xs, iPhone Xs Max, iPhone Xr. iOS 11.0-13.2.2</shortDescription>
+	<shortDescription>Compatible with: iPhone X, iPhone Xs, iPhone Xs Max, iPhone Xr. iOS 11.0-13.2.3</shortDescription>
 	<descriptionlist>
 		<description>This tweak changes the values for YouTube's "Pinch To Zoom" feature, to zoom just up to about 18:9 aspect ratio, which is right up to the notch.</description>
 	</descriptionlist>
