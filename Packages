@@ -14,19 +14,34 @@ Author: Lavie Gariv
 Depiction: https://lgariv.github.io/LaVie/depictions/?p=com.miwix.kamakeif
 Name: KamaKeif
 
+Package: com.miwix.singlecamerapatch
+Version: 0.0.7-15+debug
+Architecture: iphoneos-arm
+Maintainer: MiWiX
+Installed-Size: 164
+Depends: mobilesubstrate, ws.hbang.common (>= 1.13)
+Filename: ./debs/com.miwix.singlecamerapatch.deb
+Size: 7372
+MD5sum: 3a88cba90cdea1637c3d23b58ff08c4d
+SHA1: 3bd8c4c8dde0881b968ef6e0753ca4d54a27bef3
+SHA256: 21e1ef4cd549553a9346c4ea653aba77e8a079d6a55802afd8f38ad1780e4b60
+Section: Tweaks
+Author: Lavie Gariv
+Name: singlecamerapatch
+
 Package: com.miwix.youtubezoom
-Version: 1.0.2
+Version: 1.0.3
 Architecture: iphoneos-arm
 Maintainer: Lavie Gariv
-Installed-Size: 300
+Installed-Size: 172
 Depends: mobilesubstrate, ws.hbang.common (>= 1.13)
 Filename: ./debs/com.miwix.youtubezoom.deb
-Size: 15572
-MD5sum: 067e4dd2cc30f3a4412c87a9ebc08398
-SHA1: c67609eb10e938bbbc1e233ddf9d9ac793555f5c
-SHA256: ced93e89d2317e4584301aabf3cc799534d295ff496fbb7c87f930ee8ea713e3
+Size: 14318
+MD5sum: 410ae12a3d95602f0cef2176af41898d
+SHA1: 37a2c21b894ec66c8c5b4100263d964dbf5f4cd1
+SHA256: 109b1ff6ad48802db6dd7d9fa74b14af273f7e04d4bac4e241bd40e425f95728
 Section: Tweaks
 Author: Lavie Gariv
 Depiction: https://lgariv.github.io/LaVie/depictions/?p=com.miwix.youtubezoom
-Name: YouTubeZoom
+Name: Zoom For YouTube
 
