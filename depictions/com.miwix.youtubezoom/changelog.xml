@@ -1,14 +1,18 @@
 <changelog>
     <changes>
+		<version>1.0.3</version>
+        <change>Name change.</change>
+    </changes>
+    <changes>
 		<version>1.0.2</version>
         <change>Fixed "Zoom By Default" feature.</change>
     </changes>
 	<changes>
 		<version>1.0.1</version>
-		<change>Added A12 Support (test needed)</change>
+		<change>Added A12 Support (test needed).</change>
     </changes>
     <changes>
 		<version>1.0.0</version>
-		<change>Initial public release</change>
+		<change>Initial public release.</change>
     </changes>
 </changelog>
