@@ -1,17 +1,17 @@
 Package: com.miwix.kamakeif
-Version: 0.0.1-116+debug
+Version: 0.0.1-117+debug
 Architecture: iphoneos-arm
 Maintainer: Lavie Gariv
 Installed-Size: 264
 Depends: mobilesubstrate, ws.hbang.common (>= 1.13)
 Filename: ./debs/com.miwix.kamakeif.deb
-Size: 19448
-MD5sum: ce12f476442be5895043df6ec6d68b16
-SHA1: 6786c5d8bcc35e2c03ac1cb669f913005a0cc1b2
-SHA256: b4fbc70b9625014fe2c0de6f566e65e7cb298410b635b70e0ef5057a6e64705c
+Size: 19458
+MD5sum: fb3e405b803ca26a6e27e78a3825e09c
+SHA1: c1162c3d70bbd1f93dd278f002ae66aa42e11005
+SHA256: a6e314d4f0f443e109083f868291ec7811ea28f17a1a37eb8657cb472c74d892
 Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
 Author: Lavie Gariv
+Depiction: https://lgariv.github.io/LaVie/depictions/?p=com.miwix.kamakeif
 Name: KamaKeif
 
 Package: com.miwix.singlecamerapatch
