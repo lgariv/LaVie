@@ -1,45 +1,14 @@
-Package: com.miwix.kamakeif
-Version: 0.0.1-117+debug
-Architecture: iphoneos-arm
-Maintainer: Lavie Gariv
-Installed-Size: 264
-Depends: mobilesubstrate, ws.hbang.common (>= 1.13)
-Filename: ./debs/com.miwix.kamakeif.deb
-Size: 19458
-MD5sum: fb3e405b803ca26a6e27e78a3825e09c
-SHA1: c1162c3d70bbd1f93dd278f002ae66aa42e11005
-SHA256: a6e314d4f0f443e109083f868291ec7811ea28f17a1a37eb8657cb472c74d892
-Section: Tweaks
-Author: Lavie Gariv
-Depiction: https://lgariv.github.io/LaVie/depictions/?p=com.miwix.kamakeif
-Name: KamaKeif
-
-Package: com.miwix.singlecamerapatch
-Version: 0.0.7-15+debug
-Architecture: iphoneos-arm
-Maintainer: MiWiX
-Installed-Size: 164
-Depends: mobilesubstrate, ws.hbang.common (>= 1.13)
-Filename: ./debs/com.miwix.singlecamerapatch.deb
-Size: 7372
-MD5sum: 3a88cba90cdea1637c3d23b58ff08c4d
-SHA1: 3bd8c4c8dde0881b968ef6e0753ca4d54a27bef3
-SHA256: 21e1ef4cd549553a9346c4ea653aba77e8a079d6a55802afd8f38ad1780e4b60
-Section: Tweaks
-Author: Lavie Gariv
-Name: singlecamerapatch
-
 Package: com.miwix.youtubezoom
-Version: 1.0.3-2+debug
+Version: 1.0.4
 Architecture: iphoneos-arm
 Maintainer: Lavie Gariv
 Installed-Size: 300
 Depends: mobilesubstrate, ws.hbang.common (>= 1.13)
 Filename: ./debs/com.miwix.youtubezoom.deb
-Size: 16832
-MD5sum: 788fa27dfbe41f8a2d6a0465d91f0b90
-SHA1: 5c8acfd976b131964e05a11f982b95b981fb0333
-SHA256: b8886c38a09647f6c591c191ab498231ad94b587b9298278bfc62a65d2a26a4f
+Size: 15626
+MD5sum: c4d49f7200d345a69edcee80c88bf277
+SHA1: 115d593e8f8ec1335253fe0de52d5fe1ea6f7ceb
+SHA256: 92b149263cc94e0e284c2ed094a7640d4efb4f43575e8777148c9a16f85dbb4d
 Section: Tweaks
 Author: Lavie Gariv
 Depiction: https://lgariv.github.io/LaVie/depictions/?p=com.miwix.youtubezoom
