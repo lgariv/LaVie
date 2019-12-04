@@ -26,10 +26,10 @@
         <change>PayPal donation button now actually works!</change>
 	</changelog>
 	<links>
-        <a class="btn btn-sm btn-default" href="Donate.html">Donate me</a>
 		<link>
 			<name>Contact Me</name>
 			<url>mailto:lavie43g@gmail.com</url>
 		</link>
 	</links>
 </package>
+        <a class="btn btn-sm btn-default" href="Donate.html">Donate me</a>
