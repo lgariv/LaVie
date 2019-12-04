@@ -29,8 +29,10 @@
 		<link>
 			<name>Contact Me</name>
 			<url>mailto:lavie43g@gmail.com</url>
-            <name>Donate Me</name>
-			<url>https://lgariv.github.io/LaVie/Donate.html</url>
 		</link>
-	</links>
+		<link>
+			<name>Contact Me</name>
+			<url>mailto:lavie43g@gmail.com</url>
+		</link>
+    </links>
 </package>
