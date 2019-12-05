@@ -1,14 +1,14 @@
 Package: com.miwix.youtubezoom
-Version: 1.1.0
+Version: 1.0.4
 Architecture: iphoneos-arm
 Maintainer: Lavie Gariv
-Installed-Size: 436
+Installed-Size: 300
 Depends: mobilesubstrate, ws.hbang.common (>= 1.13)
 Filename: ./debs/com.miwix.youtubezoom.deb
-Size: 18542
-MD5sum: 09e3550e616c71e6aed0f6aa15a93453
-SHA1: 09c430d9b5920ee1090248e568091bca14e9ec74
-SHA256: 257fef9fe5d434efb0d442d04c5d67249eec3383c785dea0e6715158964da2f4
+Size: 15626
+MD5sum: c4d49f7200d345a69edcee80c88bf277
+SHA1: 115d593e8f8ec1335253fe0de52d5fe1ea6f7ceb
+SHA256: 92b149263cc94e0e284c2ed094a7640d4efb4f43575e8777148c9a16f85dbb4d
 Section: Tweaks
 Author: Lavie Gariv
 Depiction: https://lgariv.github.io/LaVie/depictions/?p=com.miwix.youtubezoom
