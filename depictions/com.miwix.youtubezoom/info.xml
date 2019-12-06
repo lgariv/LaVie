@@ -30,7 +30,11 @@
 		<change>Added bug report form.</change>
 	</changelog>
 	<links>
-        <link>
+		<link>
+			<name>Bug Report</name>
+			<url>https://forms.gle/CPnMikAGUjo2PaBo7</url>
+		</link>
+		<link>
 			<name>Donate Me</name>
 			<url>https://lgariv.github.io/LaVie/Donate.html</url>
 		</link>
