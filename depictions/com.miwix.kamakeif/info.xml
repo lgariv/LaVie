@@ -1,7 +1,7 @@
 <package>
-	<id>com.miwix.youtubezoom</id>
-	<name>SlideText</name>
-	<version>1.0.0</version>
+	<id>com.miwix.kamakeif</id>
+	<name>KameraUP</name>
+	<version>0.0.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -26,7 +26,7 @@
 	<links>
 		<link>
 			<name>Bug Report</name>
-			<url>https://docs.google.com/forms/d/e/1FAIpQLScFu2GBMdQB0PpE5fBgoc9mcD_e5OzsvAqsm49wxd-TLxpw9g/viewform?usp=sf_link</url>
+			<url>https://forms.gle/7gBAThDZvXFd7TPx9</url>
 		</link>
 		<link>
 			<name>Donate Me</name>
