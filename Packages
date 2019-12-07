@@ -1,16 +1,18 @@
 Package: com.miwix.youtubezoom
-Version: 1.1.1
+Version: 1.1.2
 Architecture: iphoneos-arm
-Maintainer: Lavie Gariv
-Installed-Size: 448
+Maintainer: Lavie Gariv <lavie43b@gmail.com>
+Installed-Size: 480
 Depends: mobilesubstrate, ws.hbang.common (>= 1.13)
+Conflicts: me.alfhaily.cercube
 Filename: ./debs/com.miwix.youtubezoom.deb
-Size: 29250
-MD5sum: afe2d77fa82eb99e90ffac33a4be2457
-SHA1: f1d7ba7007140767345ad93e0290d59512baa523
-SHA256: a37757243932084d6e14778320188aa9922ae0bfaec4a6e858753aa3b06fce82
+Size: 48188
+MD5sum: e6764e691db298ee1abc88711d21f643
+SHA1: 8fd648bba2764a8d657a6b282c0daf22553d456f
+SHA256: ed434cf9a9cb8c11e8a2e1911efb32962be07120e1b5528c42355f97bea93baa
 Section: Tweaks
 Author: Lavie Gariv
 Depiction: https://lgariv.github.io/LaVie/depictions/?p=com.miwix.youtubezoom
+Icon: file:///Library/PreferenceBundles/youtubezoomprefs.bundle/CydiaIcon2.png
 Name: Zoom For YouTube
 
