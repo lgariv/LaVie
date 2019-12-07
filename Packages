@@ -3,14 +3,15 @@ Version: 1.1.2
 Architecture: iphoneos-arm
 Maintainer: Lavie Gariv <lavie43b@gmail.com>
 Installed-Size: 480
-Depends: mobilesubstrate, ws.hbang.common (>= 1.13)
-Conflicts: me.alfhaily.cercube
+Pre-Depends: ws.hbang.common (>= 1.13)
+Depends: mobilesubstrate
 Filename: ./debs/com.miwix.youtubezoom.deb
-Size: 48188
-MD5sum: e6764e691db298ee1abc88711d21f643
-SHA1: 8fd648bba2764a8d657a6b282c0daf22553d456f
-SHA256: ed434cf9a9cb8c11e8a2e1911efb32962be07120e1b5528c42355f97bea93baa
+Size: 48230
+MD5sum: f03538bfd14e96ad0f9f826be6c05d0d
+SHA1: 33ffce7566636a6c35b54a9468a22ce6e3447388
+SHA256: ebc560ac4a72b44ade21beade45cfa73b06ba0d77bbcdcf655be82af37cebd22
 Section: Tweaks
+//conflicts: me.alfhaily.cercube
 Author: Lavie Gariv
 Depiction: https://lgariv.github.io/LaVie/depictions/?p=com.miwix.youtubezoom
 Icon: file:///Library/PreferenceBundles/youtubezoomprefs.bundle/CydiaIcon2.png
