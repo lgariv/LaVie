@@ -1,14 +1,14 @@
 Package: com.miwix.kamakeif
-Version: 0.0.1-127+debug
+Version: 0.0.1-138+debug
 Architecture: iphoneos-arm
 Maintainer: Lavie Gariv
-Installed-Size: 516
-Depends: mobilesubstrate, ws.hbang.common (>= 1.13)
+Installed-Size: 660
+Depends: mobilesubstrate, ws.hbang.common (>= 1.14)
 Filename: ./debs/com.miwix.kamakeif.deb
-Size: 51124
-MD5sum: 6c4ec0cddc399a7859b92fc32e3c4317
-SHA1: b0425983eab4b1c4b3f9077b5a160e2a6c82ad89
-SHA256: 40799d05c3438dc0d5a153d64565db13b456da71981236f9f023a3812f63c74c
+Size: 55138
+MD5sum: c121e42e881454e3a5720ab343b2b21d
+SHA1: ca706dd5d35d02bcb7effca3b9903cdc7ff979c6
+SHA256: fa0d0668e372c73def89b5a96249d807ce4c4973191b8d71f6e3ea9e24e63772
 Section: Tweaks
 Author: Lavie Gariv
 Depiction: https://lgariv.github.io/LaVie/depictions/?p=com.miwix.kamakeif
