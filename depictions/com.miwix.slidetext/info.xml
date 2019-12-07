@@ -1,0 +1,40 @@
+<package>
+	<id>com.miwix.youtubezoom</id>
+	<name>Zoom for YouTube</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+      <maxOS>13.2.3</maxOS>
+		</firmware>
+	</compatibility>
+	<shortDescription>Compatible with: iOS 11.0-13.2.3</shortDescription>
+	<descriptionlist>
+		<description>Change the "Swipe up to unlock" text on the lockscreen to anything you want!</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+            <image>1.PNG</image>
+		</screenshot>
+		<screenshot>
+            <image>2.PNG</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial public release.</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Bug Report</name>
+			<url>https://docs.google.com/forms/d/e/1FAIpQLScFu2GBMdQB0PpE5fBgoc9mcD_e5OzsvAqsm49wxd-TLxpw9g/viewform?usp=sf_link</url>
+		</link>
+		<link>
+			<name>Donate Me</name>
+			<url>https://lgariv.github.io/LaVie/Donate.html</url>
+		</link>
+		<link>
+			<name>Contact Me</name>
+			<url>mailto:lavie43g@gmail.com</url>
+		</link>
+    </links>
+</package>
