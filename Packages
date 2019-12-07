@@ -23,10 +23,10 @@ Installed-Size: 480
 Pre-Depends: ws.hbang.common (>= 1.13)
 Depends: mobilesubstrate
 Filename: ./debs/com.miwix.youtubezoom.deb
-Size: 48230
-MD5sum: f03538bfd14e96ad0f9f826be6c05d0d
-SHA1: 33ffce7566636a6c35b54a9468a22ce6e3447388
-SHA256: ebc560ac4a72b44ade21beade45cfa73b06ba0d77bbcdcf655be82af37cebd22
+Size: 48212
+MD5sum: e501804bd50bd7112c24ef4d7f5d4c85
+SHA1: e5bb7f901d0ca376a4851d3052898c4c42a036e8
+SHA256: 24bb97373dc6f5f8e18a6fee76377d2f87c900b9a72fe25208972345540fdd66
 Section: Tweaks
 //conflicts: me.alfhaily.cercube
 Author: Lavie Gariv
