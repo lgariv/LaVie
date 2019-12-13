@@ -1,5 +1,10 @@
 <changelog>
   <changes>
+      <version>1.1.3</version>
+        <change>Updated dependency so users below iOS 13 can install it again.</change>
+        <change>Fixed preferences UI looking weird in light mode.</change>
+  </changes>
+  <changes>
       <version>1.1.2</version>
         <change>You can now use the "Zoom by default" feature to zoom in by default even without limiting the zoom to 18:9 aspect ratio.</change>
         <change>Added bug report form.</change>

@@ -26,11 +26,9 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>You can now use the "Zoom by default" feature to zoom in by default even without limiting the zoom to 18:9 aspect ratio.</change>
-		<change>Added bug report form.</change>
-		<change>Updated preferences UI.</change>
-		<change>Hopefully solved the bug where if you have cercube installed, the preferences for my tweak would crash (rebuilt preferences from scratch and its working on my iPhone X iOS 13). I also don't experience the problem where if you have Cercube installed my tweak wouldn't work in youtube.</change>
-	</changelog>
+    <change>Updated dependency so users below iOS 13 can install it again.</change>
+    <change>Fixed preferences UI looking weird in light mode.</change>
+  </changelog>
 	<links>
 		<link>
 			<name>Bug Report</name>
