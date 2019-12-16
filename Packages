@@ -31,6 +31,23 @@ Author: Lavie Gariv
 Depiction: https://lgariv.github.io/LaVie/depictions/?p=com.miwix.slidetext
 Name: SlideText
 
+Package: com.miwix.slidetext
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: Lavie Gariv <lavie43b@gmail.com>
+Installed-Size: 340
+Pre-Depends: ws.hbang.common (>= 1.12)
+Depends: mobilesubstrate
+Filename: ./debs/com.miwix.slidetext_1.1.0_iphoneos-arm.deb
+Size: 42584
+MD5sum: 50f7c4ec7075f2bb215bdb15842b2bf4
+SHA1: 8fe10351c272ae1ef4062e6b791d8c165eca6a31
+SHA256: db341e06ad58e84bd28572adfecf985cb711258c226b4cac378fbb5348e51fe2
+Section: Tweaks
+Author: Lavie Gariv
+Depiction: https://lgariv.github.io/LaVie/depictions/?p=com.miwix.slidetext
+Name: SlideText
+
 Package: com.miwix.youtubezoom
 Version: 1.1.2
 Architecture: iphoneos-arm
