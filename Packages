@@ -48,26 +48,6 @@ Author: Lavie Gariv
 Depiction: https://lgariv.github.io/LaVie/depictions/?p=com.miwix.slidetext
 Name: SlideText
 
-Package: com.miwix.unizoom
-Version: 1.2.0
-Architecture: iphoneos-arm
-Maintainer: Lavie Gariv <lavie43b@gmail.com>
-Installed-Size: 380
-Pre-Depends: ws.hbang.common (>= 1.12)
-Depends: mobilesubstrate, firmware (>= 11.0), firmware (<= 13.3)
-Replaces: com.miwix.youtubezoom
-Filename: ./debs/com.miwix.unizoom_1.2.0_iphoneos-arm.deb
-Size: 48386
-MD5sum: 6370554611ea17629be561036eb7be07
-SHA1: d4edeabdfab8a5e6cb913b13acc1b99024ecf703
-SHA256: 2cea85daac000dcd741040a83ff2f5b42d6c3d4c6f74ce390b9c6ce29cb4a5c4
-Section: Tweaks
-//conflicts: me.alfhaily.cercube
-Author: Lavie Gariv
-Depiction: https://lgariv.github.io/LaVie/depictions/?p=com.miwix.youtubezoom
-Icon: file:///Library/PreferenceBundles/youtubezoomprefs.bundle/CydiaIcon2.png
-Name: UniZoom (Zoom For YouTube)
-
 Package: com.miwix.youtubezoom
 Version: 1.1.2
 Architecture: iphoneos-arm
@@ -124,24 +104,4 @@ Author: Lavie Gariv
 Depiction: https://lgariv.github.io/LaVie/depictions/?p=com.miwix.youtubezoom
 Icon: file:///Library/PreferenceBundles/youtubezoomprefs.bundle/CydiaIcon2.png
 Name: Zoom For YouTube
-
-Package: com.miwix.youtubezoom
-Version: 1.2.0
-Architecture: iphoneos-arm
-Maintainer: Lavie Gariv <lavie43b@gmail.com>
-Installed-Size: 380
-Pre-Depends: ws.hbang.common (>= 1.12)
-Depends: mobilesubstrate, firmware (>= 11.0), firmware (<= 13.3)
-Replaces: com.miwix.unizoom
-Filename: ./debs/com.miwix.youtubezoom_1.2.0_iphoneos-arm.deb
-Size: 48386
-MD5sum: fffc1388ba9a430cec16063460dfec9d
-SHA1: 8d273c3d74a95062fe6aaf9df118bc2b05c8f174
-SHA256: c7d56d4ea71d4f1b5edf5af525fd2d1c1e09cbdf9bb025e38843ec8de997e970
-Section: Tweaks
-//conflicts: me.alfhaily.cercube
-Author: Lavie Gariv
-Depiction: https://lgariv.github.io/LaVie/depictions/?p=com.miwix.youtubezoom
-Icon: file:///Library/PreferenceBundles/youtubezoomprefs.bundle/CydiaIcon2.png
-Name: UniZoom (Zoom For YouTube)
 
