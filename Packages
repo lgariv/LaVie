@@ -1,3 +1,19 @@
+Package: com.miwix.fairplay
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm
+Maintainer: Lavie Gariv <lavie43b@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.miwix.fairplay_0.0.1-2+debug_iphoneos-arm.deb
+Size: 3642
+MD5sum: d509009b5a4bc2eb54f0219dbdb362e3
+SHA1: 090f2470c68adab7daa6a104ce23261e517ce131
+SHA256: b855a59665da73f48f932835f8a1a709cfea2c3df9e7f54d8a14fae5c261065f
+Section: Tweaks
+Description: Disables AirPlay button in Safari
+Author: Lavie Gariv
+Name: fAirPlay
+
 Package: com.miwix.kamakeif
 Version: 0.0.1-154+debug
 Architecture: iphoneos-arm
