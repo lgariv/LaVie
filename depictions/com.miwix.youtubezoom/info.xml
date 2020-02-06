@@ -1,17 +1,18 @@
 <package>
 	<id>com.miwix.youtubezoom</id>
-	<name>Zoom for YouTube</name>
-	<version>1.1.4</version>
+	<name>UniZoom</name>
+	<version>2.0.0</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
-      <maxOS>13.2.3</maxOS>
+    		<maxOS>13.4</maxOS>
 		</firmware>
 	</compatibility>
-	<shortDescription>Compatible with: iPhone X, iPhone Xs, iPhone Xs Max, iPhone Xr. iOS 11.0-13.2.3</shortDescription>
+	<shortDescription>Compatible with: iPhone X, iPhone Xs, iPhone Xs Max, iPhone Xr. iOS 11.0-13.3.1</shortDescription>
 	<descriptionlist>
 		<description>This tweak changes the values for YouTube's "Zoom To Fill" feature, to zoom just up to about 18:9 aspect ratio, which is right up to the notch.</description>
 		<description>It also gives you the option to zoom in by default, with/out the zoom to 18:9 aspect ratio limit.</description>
+		<description>Now also for Netflix and Safari! (Needs testing, Safari doesn't work for iOS version lower than iOS 13)</description>
 		<description>Report any bugs/problems in the bug report button down below, or in the tweak settings.</description>
 	</descriptionlist>
 	<screenshots>
@@ -22,11 +23,12 @@
             <image>2.PNG</image>
 		</screenshot>
 		<screenshot>
-						<image>3.png</image>
+			<image>3.png</image>
 		</screenshot>
 	</screenshots>
 	<changelog>
-    <change>Added support for iOS 13.3</change>
+    <change>Added support for Safari (iOS 13 only.)</change>
+    <change>Added support for Netflix.</change>
   </changelog>
 	<links>
 		<link>
