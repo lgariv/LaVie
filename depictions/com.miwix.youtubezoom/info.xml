@@ -5,10 +5,10 @@
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
-    		<maxOS>13.4</maxOS>
+    		<maxOS>13.5</maxOS>
 		</firmware>
 	</compatibility>
-	<shortDescription>Compatible with: iPhone X, iPhone Xs, iPhone Xs Max, iPhone Xr. iOS 11.0-13.3.1</shortDescription>
+	<shortDescription>Compatible with: iPhone X, iPhone Xs, iPhone Xs Max, iPhone Xr. iOS 11.0-13.5</shortDescription>
 	<descriptionlist>
 		<description>This tweak changes the values for YouTube's "Zoom To Fill" feature, to zoom just up to about 18:9 aspect ratio, which is right up to the notch.</description>
 		<description>It also gives you the option to zoom in by default, with/out the zoom to 18:9 aspect ratio limit.</description>
