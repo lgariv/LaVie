@@ -1,16 +1,16 @@
 <package>
-	<id>com.miwix.kamakeif</id>
-	<name>KameraUP Beta</name>
-	<version>0.0.1</version>
+	<id>com.miwix.seeya</id>
+	<name>SeeYa</name>
+	<version>1.0.0</version>
 	<compatibility>
 		<firmware>
 			<miniOS>13.0</miniOS>
-      <maxOS>13.2.3</maxOS>
+      <maxOS>13.5</maxOS>
 		</firmware>
 	</compatibility>
-	<shortDescription>Compatible with: Every dual camera iPhone. iOS 13.0-13.2.3.</shortDescription>
+	<shortDescription>Compatible with: Every iOS device. iOS 13.0-13.5.</shortDescription>
 	<descriptionlist>
-		<description>Get the iPhone 11 camera UI, High-Key Light Mono, Aperture control, Intensity, and more.</description>
+		<description>See who's texting you 👁</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
@@ -24,10 +24,6 @@
 		<change>Initial public release.</change>
 	</changelog>
 	<links>
-		<link>
-			<name>Bug Report</name>
-			<url>https://forms.gle/7gBAThDZvXFd7TPx9</url>
-		</link>
 		<link>
 			<name>Donate Me</name>
 			<url>https://lgariv.github.io/LaVie/Donate.html</url>
