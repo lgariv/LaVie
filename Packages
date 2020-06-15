@@ -1,69 +1,3 @@
-Package: com.miwix.fairplay
-Version: 0.0.1-2+debug
-Architecture: iphoneos-arm
-Maintainer: Lavie Gariv <lavie43b@gmail.com>
-Installed-Size: 168
-Depends: mobilesubstrate
-Filename: ./debs/com.miwix.fairplay_0.0.1-2+debug_iphoneos-arm.deb
-Size: 3642
-MD5sum: d509009b5a4bc2eb54f0219dbdb362e3
-SHA1: 090f2470c68adab7daa6a104ce23261e517ce131
-SHA256: b855a59665da73f48f932835f8a1a709cfea2c3df9e7f54d8a14fae5c261065f
-Section: Tweaks
-Description: Disables AirPlay button in Safari
-Author: Lavie Gariv
-Name: fAirPlay
-
-Package: com.miwix.kamakeif
-Version: 0.0.1-154+debug
-Architecture: iphoneos-arm
-Maintainer: Lavie Gariv
-Installed-Size: 660
-Depends: mobilesubstrate, ws.hbang.common (>= 1.14)
-Filename: ./debs/com.miwix.kamakeif.deb
-Size: 55152
-MD5sum: e7caf7d492dec2937b0061c7d587327d
-SHA1: 33538c88607fcfd1c82dde454844dfac534beb9a
-SHA256: 2292f45655fe39ff66fc060cb6bec8bc158000f72026bc40f41f7778741ff689
-Section: Tweaks
-Author: Lavie Gariv
-Depiction: https://lgariv.github.io/LaVie/depictions/?p=com.miwix.kamakeif
-Name: KameraUP
-
-Package: com.miwix.slidetext
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: Lavie Gariv <lavie43b@gmail.com>
-Installed-Size: 336
-Pre-Depends: ws.hbang.common (>= 1.14)
-Depends: mobilesubstrate
-Filename: ./debs/com.miwix.slidetext.deb
-Size: 41744
-MD5sum: a277f302f444e8c7af2a5b59c1c34cd4
-SHA1: 54a4a539a43e134fd7acd7d593b53b03f29df366
-SHA256: 02e697f9657a77832bcf33988127c6be36d1b8de5a54acae5335b52badf536b4
-Section: Tweaks
-Author: Lavie Gariv
-Depiction: https://lgariv.github.io/LaVie/depictions/?p=com.miwix.slidetext
-Name: SlideText
-
-Package: com.miwix.slidetext
-Version: 1.1.0
-Architecture: iphoneos-arm
-Maintainer: Lavie Gariv <lavie43b@gmail.com>
-Installed-Size: 340
-Pre-Depends: ws.hbang.common (>= 1.12)
-Depends: mobilesubstrate
-Filename: ./debs/com.miwix.slidetext_1.1.0_iphoneos-arm.deb
-Size: 42584
-MD5sum: 50f7c4ec7075f2bb215bdb15842b2bf4
-SHA1: 8fe10351c272ae1ef4062e6b791d8c165eca6a31
-SHA256: db341e06ad58e84bd28572adfecf985cb711258c226b4cac378fbb5348e51fe2
-Section: Tweaks
-Author: Lavie Gariv
-Depiction: https://lgariv.github.io/LaVie/depictions/?p=com.miwix.slidetext
-Name: SlideText
-
 Package: com.miwix.youtubezoom
 Version: 1.1.2
 Architecture: iphoneos-arm
@@ -139,4 +73,23 @@ Author: Lavie Gariv
 Depiction: https://lgariv.github.io/LaVie/depictions/?p=com.miwix.youtubezoom
 Icon: file:///Library/PreferenceBundles/youtubezoomprefs.bundle/CydiaIcon2.png
 Name: Zoom For YouTube 2 - UniZoom
+
+Package: com.miwix.youtubezoom
+Version: 2.1.0
+Architecture: iphoneos-arm
+Maintainer: Lavie Gariv
+Installed-Size: 516
+Pre-Depends: ws.hbang.common (>= 1.12)
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./debs/com.miwix.youtubezoom_2.1.0_iphoneos-arm.deb
+Size: 57704
+MD5sum: 8677832cd3d999f5ca6225f1f923e513
+SHA1: 0de97bacde0fb23319b09737993843b96d2fe644
+SHA256: fcab116e1882b57d09c8275f0746a6ed97493d08b937975569b2b8b6877ac3c3
+Section: Tweaks
+//conflicts: me.alfhaily.cercube
+Author: Lavie Gariv
+Depiction: https://lgariv.github.io/LaVie/depictions/?p=com.miwix.youtubezoom
+Icon: file:///Library/PreferenceBundles/youtubezoomprefs.bundle/CydiaIcon2.png
+Name: UniZoom
 
