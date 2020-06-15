@@ -101,12 +101,11 @@ Installed-Size: 516
 Pre-Depends: ws.hbang.common (>= 1.12)
 Depends: mobilesubstrate, firmware (>= 11.0)
 Filename: ./debs/com.miwix.youtubezoom_2.1.1_iphoneos-arm.deb
-Size: 57766
-MD5sum: a15514cedd9935031f17ed3661701e7e
-SHA1: 5698ef067ef12bc4e238bd08ac564f122b5ff431
-SHA256: d95725eb859991047d99fc01295d770c7503e2f6f856187d8a4f53bd8e7e38ac
+Size: 57668
+MD5sum: 2b1bf1720803a0d8d33fcceda45b66c4
+SHA1: c9a6f6a3b52806b630ca0fcb80ea5f5bd806daf6
+SHA256: 05719d82d05102e714cf336a4567f59505c666e75a9f5f00c29b418f904368ca
 Section: Tweaks
-//conflicts: me.alfhaily.cercube
 Author: Lavie Gariv
 Depiction: https://lgariv.github.io/LaVie/depictions/?p=com.miwix.youtubezoom
 Icon: file:///Library/PreferenceBundles/youtubezoomprefs.bundle/CydiaIcon2.png
