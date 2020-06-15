@@ -93,3 +93,22 @@ Depiction: https://lgariv.github.io/LaVie/depictions/?p=com.miwix.youtubezoom
 Icon: file:///Library/PreferenceBundles/youtubezoomprefs.bundle/CydiaIcon2.png
 Name: UniZoom
 
+Package: com.miwix.youtubezoom
+Version: 2.1.1
+Architecture: iphoneos-arm
+Maintainer: Lavie Gariv
+Installed-Size: 516
+Pre-Depends: ws.hbang.common (>= 1.12)
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./debs/com.miwix.youtubezoom_2.1.1_iphoneos-arm.deb
+Size: 57766
+MD5sum: a15514cedd9935031f17ed3661701e7e
+SHA1: 5698ef067ef12bc4e238bd08ac564f122b5ff431
+SHA256: d95725eb859991047d99fc01295d770c7503e2f6f856187d8a4f53bd8e7e38ac
+Section: Tweaks
+//conflicts: me.alfhaily.cercube
+Author: Lavie Gariv
+Depiction: https://lgariv.github.io/LaVie/depictions/?p=com.miwix.youtubezoom
+Icon: file:///Library/PreferenceBundles/youtubezoomprefs.bundle/CydiaIcon2.png
+Name: UniZoom
+
