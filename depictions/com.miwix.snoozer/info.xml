@@ -1,6 +1,6 @@
 <package>
-	<id>com.miwix.youtubezoom</id>
-	<name>Snoozer</name>
+	<id>com.miwix.selenium</id>
+	<name>Seleniumr</name>
 	<version>1.0.0</version>
 	<compatibility>
 		<firmware>
@@ -8,25 +8,25 @@
       <maxOS>13.5</maxOS>
 		</firmware>
 	</compatibility>
-	<shortDescription>Compatible with: iOS 11.0-13.5</shortDescription>
+	<shortDescription>Compatible with: iOS 13.0 and newer.</shortDescription>
 	<descriptionlist>
-		<description>Snooze notifications, ,and much more ✨</description>
-		<description>Features:<br /><br /></description>
-		<description>• Snooze a notification for a specified amount of time.<br /><br /></description>
-		<description>• Snooze a notification until a specific date.<br /><br /></description>
-		<description>• Snooze incoming notifications until DND is turned off.<br /><br /></description>
-		<description>• Snooze a notification until you leave/arrive to a location.<br /><br /></description>
+		<description>Focus on what matters.</description>
+		<!--<description>Features:<br /><br /></description>-->
+		<!--<description>• Snooze a notification for a specified amount of time.<br /><br /></description>-->
+		<!--<description>• Snooze a notification until a specific date.<br /><br /></description>-->
+		<!--<description>• Snooze incoming notifications until DND is turned off.<br /><br /></description>-->
+		<!--<description>• Snooze a notification until you leave/arrive to a location.<br /><br /></description>-->
 	</descriptionlist>
-	<screenshots>
+	<!--<screenshots>
 		<screenshot>
             <image>1.PNG</image>
 		</screenshot>
 		<screenshot>
             <image>2.PNG</image>
 		</screenshot>
-	</screenshots>
+	</screenshots>-->
 	<changelog>
-      <change>Added options for text height.</change>
+      <change>Inintial Release</change>
 	</changelog>
 	<links>
 		<link>
