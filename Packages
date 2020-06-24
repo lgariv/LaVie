@@ -2,13 +2,14 @@ Package: com.miwix.seeya
 Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: Lavie Gariv
-Installed-Size: 168
+Installed-Size: 492
+Pre-Depends: ws.hbang.common (>= 1.12)
 Depends: mobilesubstrate, firmware (>= 13.0)
 Filename: ./debs/com.miwix.seeya.deb
-Size: 8062
-MD5sum: 6c5a1adfdf6a16b828b469eaa686617a
-SHA1: 1cfda8e00a5c7bcff77b9652fdd0376837f1ab42
-SHA256: f34f0ded1abd1d1137d6a2c5a97914f62c737bb9ec453f5d0ede4c952a306993
+Size: 129700
+MD5sum: 733fb2a7a4ba003f7401ba79acb2b1e8
+SHA1: ffa9d57146fd46eae93fa8261def33218ad70e87
+SHA256: 538447b36dba03735fbd926aa5612c1150965beeca385c2b86ea41c2073f4a32
 Section: Tweaks
 Author: Lavie Gariv
 Depiction: https://lgariv.github.io/LaVie/depictions/?p=com.miwix.seeya
