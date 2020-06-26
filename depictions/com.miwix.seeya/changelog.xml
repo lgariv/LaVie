@@ -1,5 +1,10 @@
 <changelog>
     <changes>
+  		<version>1.0.1</version>
+  		  <change>Fixed a bug where the tweak won't work until it is manually disabled and enabled from the preferences.</change>
+  		  <change>Fixed a compatibility issues with SnowBoard.</change>
+    </changes>
+    <changes>
   		<version>1.0.0</version>
   		  <change>Initial public release.</change>
     </changes>

@@ -1,27 +1,29 @@
 <package>
 	<id>com.miwix.seeya</id>
 	<name>SeeYa</name>
-	<version>1.0.0</version>
+	<version>1.0.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>13.0</miniOS>
-      <maxOS>13.5</maxOS>
+     		<maxOS>13.5</maxOS>
 		</firmware>
 	</compatibility>
-	<shortDescription>Compatible with: Every iOS device. iOS 13.0-13.5.</shortDescription>
+	<shortDescription>Compatible with: Every iOS device. iOS 13.0 and newer.</shortDescription>
 	<descriptionlist>
-		<description>See who's texting you 👁</description>
+		<description>Shows WhatsApp chat profile photo instead of the app logo in notifications. 
+		Works for WhatsApp, WhatsApp Business, and support to more apps will be added soon.</description>
 	</descriptionlist>
-	<screenshots>
+	<!--<screenshots>
 		<screenshot>
             <image>1.PNG</image>
 		</screenshot>
 		<screenshot>
             <image>2.PNG</image>
 		</screenshot>
-	</screenshots>
+	</screenshots>-->
 	<changelog>
-		<change>Initial public release.</change>
+  		<change>Fixed a bug where the tweak won't work until it is manually disabled and enabled from the preferences.</change>
+  		<change>Fixed a compatibility issues with SnowBoard.</change>
 	</changelog>
 	<links>
 		<link>

@@ -16,6 +16,25 @@ Depiction: https://lgariv.github.io/LaVie/depictions/?p=com.miwix.seeya
 Icon: https://lgariv.github.io/LaVie/depictions/com.miwix.seeya/icon.png
 Name: SeeYa
 
+Package: com.miwix.seeya
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Lavie Gariv
+Installed-Size: 428
+Pre-Depends: ws.hbang.common (>= 1.12)
+Depends: mobilesubstrate
+Filename: ./debs/com.miwix.seeya_1.0.1_iphoneos-arm.deb
+Size: 70622
+MD5sum: 757dd8357af32564f8a8174659dca3b9
+SHA1: eb5de84d87f5aa8de46a40e7d664e88fc8fa9c5a
+SHA256: 62f12cf07eeca8ecb582a3a2368789dcaf304fd258c6f0cab7fdb0c4988c8214
+Section: Tweaks
+Description: See who's texting you 👁
+Author: Lavie Gariv
+Depiction: https://lgariv.github.io/LaVie/depictions/?p=com.miwix.seeya
+Icon: https://lgariv.github.io/LaVie/depictions/com.miwix.seeya/icon.png
+Name: SeeYa
+
 Package: com.miwix.youtubezoom
 Version: 1.1.2
 Architecture: iphoneos-arm
