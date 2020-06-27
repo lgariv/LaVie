@@ -4,11 +4,11 @@
 	<version>1.0.1</version>
 	<compatibility>
 		<firmware>
-			<miniOS>13.0</miniOS>
-     		<maxOS>13.5</maxOS>
+			<miniOS>12.0</miniOS>
+     		<maxOS>13.6</maxOS>
 		</firmware>
 	</compatibility>
-	<shortDescription>Compatible with: Every iOS device. iOS 13.0 and newer.</shortDescription>
+	<shortDescription>Compatible with: Every iOS device. iOS 12.0 and newer.</shortDescription>
 	<descriptionlist>
 		<description>Shows WhatsApp chat profile photo instead of the app logo in notifications. 
 		Works for WhatsApp, WhatsApp Business, and support to more apps will be added soon.</description>
@@ -24,6 +24,7 @@
 	<changelog>
   		<change>Fixed a bug where the tweak won't work until it is manually disabled and enabled from the preferences.</change>
   		<change>Fixed a compatibility issues with SnowBoard.</change>
+  		<change>SeeYa now works on iOS 12 as well!</change>
 	</changelog>
 	<links>
 		<link>

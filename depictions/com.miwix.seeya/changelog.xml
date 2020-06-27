@@ -3,6 +3,7 @@
   		<version>1.0.1</version>
   		  <change>Fixed a bug where the tweak won't work until it is manually disabled and enabled from the preferences.</change>
   		  <change>Fixed a compatibility issues with SnowBoard.</change>
+  		  <change>SeeYa now works on iOS 12 as well!</change>
     </changes>
     <changes>
   		<version>1.0.0</version>
