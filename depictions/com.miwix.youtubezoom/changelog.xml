@@ -1,11 +1,16 @@
 <changelog>
   <changes>
+      <version>2.1.2</version>
+        <change>Added System-Wide support (iOS 13 only.)</change>
+  </changes>
+  <changes>
       <version>2.1.1</version>
         <change>Added System-Wide support (iOS 13 only.)</change>
   </changes>
   <changes>
       <version>2.1.0</version>
         <change>Added System-Wide support (iOS 13 only.)</change>
+        <change>Open-sourced!</change>
   </changes>
   <changes>
       <version>2.0.0</version>
