@@ -33,9 +33,5 @@
 			<name>Donate Me</name>
 			<url>https://lgariv.github.io/LaVie/Donate.html</url>
 		</link>
-		<link>
-			<name>Contact Me</name>
-			<url>mailto:lavie43b@gmail.com</url>
-		</link>
     </links>
 </package>

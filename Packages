@@ -148,3 +148,41 @@ Depiction: https://lgariv.github.io/LaVie/depictions/?p=com.miwix.youtubezoom
 Icon: file:///Library/PreferenceBundles/youtubezoomprefs.bundle/CydiaIcon2.png
 Name: UniZoom
 
+Package: com.miwix.youtubezoom
+Version: 2.1.2
+Architecture: iphoneos-arm
+Maintainer: Lavie Gariv
+Installed-Size: 524
+Pre-Depends: ws.hbang.common (>= 1.12)
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./debs/com.miwix.youtubezoom_2.1.2_iphoneos-arm.deb
+Size: 62994
+MD5sum: 826933f523751c426babe369eddbdc9e
+SHA1: b1a7bfeef7dee11bba969c6f41239053f0550b2f
+SHA256: e1d1806773312a833552c50327442347578f3a5621fd9feb15d114b162540350
+Section: Tweaks
+Description: Zoom videos up to the notch.
+Author: Lavie Gariv
+Depiction: https://lgariv.github.io/LaVie/depictions/?p=com.miwix.youtubezoom
+Icon: https://lgariv.github.io/LaVie/depictions/com.miwix.youtubezoom/UniZoom.png
+Name: UniZoom
+
+Package: com.miwix.youtubezoom
+Version: 2.1.3
+Architecture: iphoneos-arm
+Maintainer: Lavie Gariv
+Installed-Size: 512
+Pre-Depends: ws.hbang.common (>= 1.12)
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./debs/com.miwix.youtubezoom_2.1.3_iphoneos-arm.deb
+Size: 73152
+MD5sum: b9f71045b0a25ce98e1e1738b3a7b1fc
+SHA1: e8d609d8097c4d9666e08f030fd3b24210398313
+SHA256: efbd542de5b1f6ef1b3bdd0da91afd8ae71bbc54920c60702e43aab2f14d5151
+Section: Tweaks
+Description: Zoom videos up to the notch.
+Author: Lavie Gariv
+Depiction: https://lgariv.github.io/LaVie/depictions/?p=com.miwix.youtubezoom
+Icon: https://lgariv.github.io/LaVie/depictions/com.miwix.youtubezoom/UniZoom.png
+Name: UniZoom
+

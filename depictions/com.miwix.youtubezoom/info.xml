@@ -1,7 +1,7 @@
 <package>
 	<id>com.miwix.youtubezoom</id>
 	<name>UniZoom</name>
-	<version>2.1.2</version>
+	<version>2.1.3</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -24,6 +24,7 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
+    <change>Updated preferences.</change>
     <change>Added System-Wide support (iOS 13 only.)</change>
     <change>Open-sourced!</change>
   </changelog>
@@ -31,10 +32,6 @@
 		<link>
 			<name>Donate Me</name>
 			<url>https://lgariv.github.io/LaVie/Donate.html</url>
-		</link>
-		<link>
-			<name>Contact Me</name>
-			<url>mailto:lavie43b@gmail.com</url>
 		</link>
     </links>
 </package>

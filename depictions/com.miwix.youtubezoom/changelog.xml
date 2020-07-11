@@ -1,11 +1,15 @@
 <changelog>
   <changes>
+      <version>2.1.3</version>
+        <change>Updated preferences.</change>
+  </changes>
+  <changes>
       <version>2.1.2</version>
-        <change>Added System-Wide support (iOS 13 only.)</change>
+        <change>Improved System-Wide support (iOS 13 only.)</change>
   </changes>
   <changes>
       <version>2.1.1</version>
-        <change>Added System-Wide support (iOS 13 only.)</change>
+        <change>Improved System-Wide support (iOS 13 only.)</change>
   </changes>
   <changes>
       <version>2.1.0</version>
