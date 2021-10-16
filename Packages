@@ -35,6 +35,22 @@ Depiction: https://lgariv.github.io/LaVie/depictions/?p=com.miwix.seeya
 Icon: https://lgariv.github.io/LaVie/depictions/com.miwix.seeya/icon.png
 Name: SeeYa
 
+Package: com.miwix.selenium
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: Lavie Gariv
+Installed-Size: 1400
+Depends: mobilesubstrate, ws.hbang.common, firmware (>= 13.0)
+Filename: ./debs/com.miwix.selenium_1.2.1_iphoneos-arm.deb
+Size: 391258
+MD5sum: 4f95ece96866420a92b917c127fe3b5d
+SHA1: 58970f9c0d2f8054bdb7b4f3aa8e1e4e8e7e4e24
+SHA256: a94ae80a750e8b40e5fa9777f58e552d3d8f6c2c5ce23f6a0861485158a74ebf
+Section: Tweaks
+Description: Snooze notifications. Focus on what matters⏱
+Author: Lavie Gariv
+Name: Selenium
+
 Package: com.miwix.youtubezoom
 Version: 1.1.2
 Architecture: iphoneos-arm
